@@ -1,0 +1,46 @@
+### 2. Routing and Controllers
+5. **Routing Basics**: Defining routes in `api.php`.
+6. **Creating Controllers**: Generating and using controllers to handle requests.
+7. **Route Parameters**: Working with route parameters and passing data to controllers.
+8. **Resource Controllers**: Using resource controllers for CRUD operations.
+
+### 3. Models and Eloquent ORM
+9. **Introduction to Eloquent**: Basics of Laravel's ORM.
+10. **Creating Models and Migrations**: Generating models and migrations for database tables.
+11. **Basic CRUD Operations**: Creating, reading, updating, and deleting records using Eloquent.
+12. **Eloquent Relationships**: Defining relationships (one-to-one, one-to-many, many-to-many).
+
+<!-- ### 4. Database and Migrations
+13. **Database Configuration**: Setting up MySQL with Laravel.
+14. **Running Migrations**: Creating and running migrations to manage the database schema.
+15. **Seeding the Database**: Using seeders to populate the database with sample data. -->
+
+### 5. Building a Basic CRUD API
+16. **API Resources**: Creating API resources and controllers.
+17. **API Routes**: Defining routes for the API.
+18. **CRUD Operations**: Implementing CRUD functionality in the API.
+
+### 6. Authentication
+19. **User Authentication**: Setting up Laravel Breeze or Laravel Fortify for authentication.
+20. **JWT Authentication**: Using JSON Web Tokens (JWT) for API authentication.
+21. **Middleware**: Protecting routes with authentication middleware.
+
+### 7. File Uploads
+22. **File Upload Basics**: Handling file uploads in Laravel.
+23. **Validating Uploads**: Validating file types and sizes.
+24. **Storing Files**: Saving uploaded files to the filesystem or cloud storage.
+25. **Retrieving Files**: Serving uploaded files to clients.
+
+### 8. Advanced Topics
+26. **API Pagination**: Implementing pagination for API results.
+27. **API Error Handling**: Managing errors and responses in your API.
+28. **Testing APIs**: Writing tests for your Laravel API using PHPUnit.
+29. **Optimization**: Performance tuning and optimizing your Laravel application.
+
+### Suggested Video Series and Channels
+- **Laracasts**: Comprehensive tutorials on Laravel.
+- **Traversy Media**: Clear and concise Laravel tutorials.
+- **The Net Ninja**: Practical Laravel series covering various aspects of the framework.
+- **Academind**: Detailed explanations and tutorials on Laravel and backend development.
+
+By watching these videos, you'll be well-prepared to build a full backend API in Laravel from setup to advanced features. Good luck with your learning and your interview!
